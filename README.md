@@ -16,7 +16,6 @@ Voici les métriques de ma machine de guerre actuelle (**AMD Ryzen 9 5950X / Ubu
 - **Sécurité :** Full LUKS Encryption (2FA matériel), périmètre furtif (ICMP Stealth), restauration totale du bunker en **21 minutes**.
 
 ### 🔍 Dernier test de latence temps-réel (`cyclictest`) :
-```bash
 # Configuration : policy FIFO, priority 80
 T: 0  (Min: 3  Avg: 3  Max: 15 µs)
 T: 28 (Min: 3  Avg: 4  Max: 6  µs)
